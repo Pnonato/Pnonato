@@ -6,6 +6,7 @@
 
 
   ![Pnonato GitHub stats](https://github-readme-stats.vercel.app/api?username=Pnonato&show_icons=true&bg&theme=dracula)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dracula)
 
 <div style="display: inline_block"><br>
    <img align="center" alt="Pnonato-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
