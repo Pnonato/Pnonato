@@ -1,13 +1,20 @@
-## About me ! 👋
+## Hello and welcome to my profile !
 
 
-- 🌱 Systems Analysis and Development Student
+
+## About me
+<p> 
+  - 🌱 Systems Analysis and Development Student
+
+</p>
+
+
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pnonato&show_icons=true&theme=dracula)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pnonato&layout=compact&theme=dracula)
 
 
-## Tecnologias que eu uso no meu dia
+## Known Technology
 
 <div style="display: inline_block">
   
@@ -21,8 +28,8 @@
 </div><br/> <br/> <br/> <br/>
 
 
-
-
+  </a>
+  
 <div> 
   <a href = "mailto:pedro.nonato.marrara@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/pnonato" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
