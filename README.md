@@ -1,12 +1,12 @@
 <h1> Hello and welcome to my profile ! </h1>
   
-    - 🌱 Systems Analysis and Development Student
+   - 🌱 Systems Analysis and Development Student
 
 
 <h2> About me </h2>
   <p> 
 
-      I am currently in the 3rd semester of the higher education course in Systems Analysis and Development at the Federal Institute of São Paulo. I am passionate about technology and innovation, always looking for new opportunities to learn and improve. I look           forward to taking on challenges and contributing meaningfully to the ever-evolving world of technology
+  I am currently in the 3rd semester of the higher education course in Systems Analysis and Development at the Federal Institute of São Paulo. I am passionate about technology and innovation, always looking for new opportunities to learn and improve. I look           forward to taking on challenges and contributing meaningfully to the ever-evolving world of technology
     
   </p>
 
