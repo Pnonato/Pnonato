@@ -1,6 +1,9 @@
-<h1> Hello and welcome to my profile ! </h1>
-  
+<h1> Hello and welcome to my profile !
    - 🌱 Systems Analysis and Development Student
+
+
+</h1>
+
 
 
 <h2> About me </h2>
