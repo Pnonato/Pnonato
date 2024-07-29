@@ -1,7 +1,7 @@
 ### Sobre mim 👋
 
 
-- 🌱 Estudante de Sistemas para Internet
+- 🌱 Estudante de Análise e Desenvolvimento de Sistemas
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pnonato&show_icons=true&theme=dracula)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pnonato&layout=compact&theme=dracula)
